@@ -3,7 +3,6 @@
 <!--
 **KareemMahrous/KareemMahrous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 👋 About Me
 
 - 🔭 I’m currently working as a Mid-Level Flutter Developer on large-scale projects for the Ministry of Justice – Saudi Arabia.
 - 🌱 I’m constantly learning advanced Flutter techniques, clean architecture principles, and exploring unit testing.
